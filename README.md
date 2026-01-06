@@ -30,25 +30,32 @@ This repository contains all project resources, documentation, and configuration
 
 ## 🛠 Roles & Responsibilities
 
-### 🔸 Team Leader(Srikanth)
-- Overall project planning and coordination  
-- Ensuring timely completion of project milestones  
+###🔹 Team Leader & Core Development – Srikanth
 
-### 🔸 Technology Researcher & GitHub Management (Yasmeen)
-- Researching relevant neuro and AI technologies    
-- Creating and managing the GitHub repository  
-- Maintaining project structure and version control  
+-Led overall project planning and execution
+-Played a major role in developing the website and AI chatbot
+-Managed system integration, testing, and final deployment
+-Ensured smooth coordination and timely project completion
 
-### 🔸 Research & Documentation(vaishnavi)
-- Collecting technical references  
-- Preparing explanations and supporting material
-- creating datasets
+###🔹 Core Development, Research & Documentation – Vaishnavi
 
-### 🔸 Technical Support(Arun)
-- Assisting in system configuration and analysis  
-- Supporting implementation concepts
-- preparing ppt
+-Actively contributed to full project development and implementation
+-Designed chatbot logic and AI interaction flow
+-Prepared detailed technical documentation and datasets
+-Supported testing, refinement, and final system validation
 
+###🔹 Technology Research & GitHub Coordination – Yasmeen
+
+-Researched Google-based technologies and AI tools relevant to the project
+-Assisted in selecting suitable frameworks and resources
+-Created and managed the GitHub repository
+-Coordinated code organization and version updates with the team
+
+###🔹 Presentation & Administrative Management – Arun
+
+-Designed and prepared the complete project presentation (PPT)
+-Handled registrations and submission-related processes
+-Assisted in organizing final documentation and presentation flow
 ---
 
 ## 🧩 Technologies & Tools (Research-Based)
